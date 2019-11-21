@@ -1,0 +1,11 @@
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge-Financial.csprojAssemblyReference.cache
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge_Financial.Form1.resources
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge_Financial.Properties.Resources.resources
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge-Financial.csproj.GenerateResource.cache
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge-Financial.csproj.CoreCompileInputs.cache
+E:\Uni\Programming\Doge-Financial\Doge-Financial\bin\Debug\Doge-Financial.exe.config
+E:\Uni\Programming\Doge-Financial\Doge-Financial\bin\Debug\Doge-Financial.exe
+E:\Uni\Programming\Doge-Financial\Doge-Financial\bin\Debug\Doge-Financial.pdb
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge-Financial.exe
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge-Financial.pdb
+E:\Uni\Programming\Doge-Financial\Doge-Financial\obj\Debug\Doge_Financial.Form2.resources
